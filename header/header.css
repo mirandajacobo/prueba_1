@@ -1,0 +1,10 @@
+.header-row {
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+    padding: 10px;
+}
+
+.left-block, .right-block {
+    width: 48%;
+}

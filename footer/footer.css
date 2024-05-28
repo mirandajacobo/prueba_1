@@ -1,0 +1,28 @@
+footer {
+    width: 100%;
+    max-width: 1200px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+section {
+    text-align: center;
+    margin: 10px 0;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-block, .right-block, section, footer div {
+    border: 1px solid violet;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
